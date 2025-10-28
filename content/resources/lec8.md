@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes. Guest for this lecture was Martin Allen, Partner, Kirkpatrick
   & Lockhart.
 file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/d61c50ebfbf721043587cfcbb28e4461_lec8.pdf
+file_size: 110901
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

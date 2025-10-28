@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes. Guest for this lecture was Terry Mahoney, Partner, LeBoeuf,
   Lamb, Greene & McRae.
 file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/a8fe0165968dc4324e924f5de6026d05_lec7.pdf
+file_size: 140535
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

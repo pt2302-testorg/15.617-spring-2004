@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes.
 file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/71f8d8b8a9be5a33a2a900acbf35d231_lec5.pdf
+file_size: 106192
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

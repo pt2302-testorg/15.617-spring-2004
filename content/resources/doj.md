@@ -2,6 +2,7 @@
 content_type: resource
 description: Justice Department report.
 file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/9fd504b0694e3658b8f12f92d977ccc5_doj.pdf
+file_size: 98873
 file_type: application/pdf
 learning_resource_types:
 - Readings

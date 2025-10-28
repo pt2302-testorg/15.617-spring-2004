@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes. Guest for this lecture was Matthew Furlong, Partner, Bingham
   McCutchen.
 file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/c88e40e51ec0e0d56281c3784dc46f50_lec19.pdf
+file_size: 114564
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Exercise questions along with instructions and advice for the completion
   of the assignment.
 file: /courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/cd4bd202210c56ac7d1df5fc7275987e_ex2.pdf
+file_size: 131553
 file_type: application/pdf
 learning_resource_types:
 - Assignments
